@@ -1,0 +1,15 @@
+{
+  "name": "clearback",
+  "version": "1.0.0",
+  "description": "A backlog management app for students.",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "firebase": "^9.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  }
+}
